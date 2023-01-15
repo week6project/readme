@@ -21,9 +21,9 @@
 
 ### 🖼️ 와이어 프레임
 <p>
-<img src = 'https://lh6.googleusercontent.com/3kMbivKH8Hj7vML-EmK3121ybZ9s-KI8drtFLOX35ulsBXREAW95hRN0G0-6vC5JWRimaqYuJ6d1pYL71Vj8iJgd8i-RylY6PpDe8AB8llPu7GadxrbD3fN7Hl-MTI9M_4bGMMokh60V1-6DWzqkCKBL0_EYfK0TjiF4ypKX0sKqPBDrrgWxynBk6-4WDw' width = '500'>
-<img src = 'https://lh5.googleusercontent.com/_p7Sg_XSYc2kKENrTqui2xRfld3_YbsysyDI4azbk1Xojm1VoFAcMccINMCc_aUsg2__X7SL-06skuTVGJqW0FqwnKge7Nu3qdCbjgd5dIxRT4GdsH_DWMgG3LQObyRH9u9WRjyP-_9fw_vXYGQmVw3_GYGhamao-eP65b9mgF4L74x4javrf3uyfUvLMA' width = '450'>
-<img src = 'https://lh6.googleusercontent.com/ZJnwBwGSaaLGVNj4BpIFTrQP4q6gICSXrrGa-TAU8oqc1o8Qh1TY13DiFMepTs2KOpc5PumUk4uMf07R-S9lPSfOFiyCEBKc482g4tOb0SbLX4VhrAHaCEJv3iYk266uB1padrmj9eIMdk2MDpVZk-1D2HayOiztj5ntHC9IqZDVpKK0Bd3W7WgJ05qe5g' width = '500' >
+<img src = 'https://lh6.googleusercontent.com/3kMbivKH8Hj7vML-EmK3121ybZ9s-KI8drtFLOX35ulsBXREAW95hRN0G0-6vC5JWRimaqYuJ6d1pYL71Vj8iJgd8i-RylY6PpDe8AB8llPu7GadxrbD3fN7Hl-MTI9M_4bGMMokh60V1-6DWzqkCKBL0_EYfK0TjiF4ypKX0sKqPBDrrgWxynBk6-4WDw' width = '400'>
+<img src = 'https://lh5.googleusercontent.com/_p7Sg_XSYc2kKENrTqui2xRfld3_YbsysyDI4azbk1Xojm1VoFAcMccINMCc_aUsg2__X7SL-06skuTVGJqW0FqwnKge7Nu3qdCbjgd5dIxRT4GdsH_DWMgG3LQObyRH9u9WRjyP-_9fw_vXYGQmVw3_GYGhamao-eP65b9mgF4L74x4javrf3uyfUvLMA' width = '358'>
+<img src = 'https://lh6.googleusercontent.com/ZJnwBwGSaaLGVNj4BpIFTrQP4q6gICSXrrGa-TAU8oqc1o8Qh1TY13DiFMepTs2KOpc5PumUk4uMf07R-S9lPSfOFiyCEBKc482g4tOb0SbLX4VhrAHaCEJv3iYk266uB1padrmj9eIMdk2MDpVZk-1D2HayOiztj5ntHC9IqZDVpKK0Bd3W7WgJ05qe5g' width = '400' >
 </p>
 
 ---
