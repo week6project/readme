@@ -32,7 +32,7 @@
 -   프론트엔드: Bootstrap, Javascript
 -   백엔드: node.js, express.js,  socket.io, 
 -   도구: Git, excalidraw, drawSQL, Google Docs
--   배포 : AWS EC2
+-   배포 : AWS EC2, AWS S3
 
 ---
 
