@@ -30,7 +30,7 @@
 
 #### 🧰 기술 스택
 -   프론트엔드: Bootstrap, Javascript
--   백엔드: node.js, express.js,  socket.io, 
+-   백엔드: node.js, express.js,  socket.io, swagger, SSL, AWS S3, AWS RDS
 -   도구: Git, excalidraw, drawSQL, Google Docs
 -   배포 : AWS EC2, AWS S3
 
